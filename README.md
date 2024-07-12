@@ -1,7 +1,8 @@
 YouTube Channel Analysis 2023
 Description:
 
-This project aims to analyze YouTube channel data for the year 2023. The analysis includes several steps:
+This project aims to analyze YouTube channel data for the year 2023. T
+he analysis includes several steps:
 
 Data Preprocessing and Cleaning:
 The raw data is cleaned and prepared for analysis. This involves handling missing values, formatting inconsistencies, and ensuring the data is in a suitable format for analysis.
